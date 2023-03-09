@@ -1,0 +1,11 @@
+.Cars {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+p {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+    font-size: large;
+}
